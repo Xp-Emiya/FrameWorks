@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FrameWorks.iml" filepath="$PROJECT_DIR$/FrameWorks.iml" />
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/base-hibernate4.x-dependent/base-hibernate4.x-dependent.iml" filepath="$PROJECT_DIR$/base-hibernate4.x-dependent/base-hibernate4.x-dependent.iml" />
+=======
+>>>>>>> FETCH_HEAD
     </modules>
   </component>
 </project>

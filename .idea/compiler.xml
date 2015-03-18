@@ -22,7 +22,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+<<<<<<< HEAD
         <module name="base-hibernate4.x-dependent" />
+=======
+        <module name="FrameWorks" />
+>>>>>>> FETCH_HEAD
       </profile>
     </annotationProcessing>
   </component>
