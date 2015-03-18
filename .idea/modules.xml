@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FrameWorks.iml" filepath="$PROJECT_DIR$/FrameWorks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-hibernate4.x-dependent/base-hibernate4.x-dependent.iml" filepath="$PROJECT_DIR$/base-hibernate4.x-dependent/base-hibernate4.x-dependent.iml" />
+    </modules>
+  </component>
+</project>
